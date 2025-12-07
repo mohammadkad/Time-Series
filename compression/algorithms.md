@@ -6,5 +6,6 @@
 ### Methods:
 - sprintz, https://github.com/dblalock/sprintz, https://github.com/dblalock/lzbench
   - paper: https://arxiv.org/pdf/1808.02515.pdf
+  - pip install Cython
 - RAKE: A simple and efficient lossless compression algorithm for the Internet of Things
   - paper: https://ieeexplore.ieee.org/document/8081677
