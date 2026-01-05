@@ -1,5 +1,8 @@
 <!-- 1404-09-12 -->
 
+### Facts:
+- trade-off between compression decompression time and compression ratio, particularly when processing high precision floating-point data.
+- 
 ### Benchmarks:
 - lzbench, https://github.com/inikep/lzbench
 
